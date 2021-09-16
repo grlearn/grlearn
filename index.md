@@ -5,22 +5,22 @@
 ### Μαθήματα ανα Τάξη:
 
 #### Δημοτικό (Έρχεται Σύντομα):
-- [Α' Δημοτικού](https://eliakr.github.io/grlearn/dimotiko/a)
-- [Β' Δημοτικού](https://eliakr.github.io/grlearn/dimotiko/b)
-- [Γ' Δημοτικού](https://eliakr.github.io/grlearn/dimotiko/c)
-- [Δ' Δημοτικού](https://eliakr.github.io/grlearn/dimotiko/d)
-- [Ε' Δημοτικού](https://eliakr.github.io/grlearn/dimotiko/e)
-- [ΣΤ' Δημοτικού](https://eliakr.github.io/grlearn/dimotiko/st)
+- [Α' Δημοτικού](https://eliakr.github.io/grlearn/adim)
+- [Β' Δημοτικού](https://eliakr.github.io/grlearn/bdim)
+- [Γ' Δημοτικού](https://eliakr.github.io/grlearn/cdim)
+- [Δ' Δημοτικού](https://eliakr.github.io/grlearn/ddim)
+- [Ε' Δημοτικού](https://eliakr.github.io/grlearn/edim)
+- [ΣΤ' Δημοτικού](https://eliakr.github.io/grlearn/stdim)
 
 #### Γυμνάσιο:
-- [Α' Γυμνασίου](https://eliakr.github.io/grlearn/gymnasio/a)
-- [Β' Γυμνασίου](https://eliakr.github.io/grlearn/gymnasio/b)
-- [Γ' Γυμνασίου](https://eliakr.github.io/grlearn/gymnasio/c)
+- [Α' Γυμνασίου](https://eliakr.github.io/grlearn/agymn)
+- [Β' Γυμνασίου](https://eliakr.github.io/grlearn/bgymn)
+- [Γ' Γυμνασίου](https://eliakr.github.io/grlearn/cgymn)
 
 #### Λύκειο:
-- [Α' Λυκείου](https://eliakr.github.io/grlearn/lykeio/a)
-- [Β' Λυκείου](https://eliakr.github.io/grlearn/lykeio/b)
-- [Γ' Λυκείου](https://eliakr.github.io/grlearn/lykeio/c)
+- [Α' Λυκείου](https://eliakr.github.io/grlearn/alyk)
+- [Β' Λυκείου](https://eliakr.github.io/grlearn/blyk)
+- [Γ' Λυκείου](https://eliakr.github.io/grlearn/clyk)
 
 ### Προτείνετε Βίντεο
 
