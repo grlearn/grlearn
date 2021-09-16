@@ -1,13 +1,27 @@
-## Welcome to GitHub Pages
+## Καλώς Ήρθατε στο grlearn
 
-You can use the [editor on GitHub](https://github.com/EliaKr/learn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Το grlearn είναι ένας διαδικτυακός κατάλογος που αποσκοπεί στη παροχή υψηλής ποιότητας εκπαιδευτικού υλικού, μέσω βιντεοσκοπημένων μαθημάτων. Τα μαθήματα προέρχονται από πλατφόρμες διαμοιρασμού βίντεο, όπως το YouTube, και είναι απολύτως δωρεάν για όλους.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Μαθήματα ανα Τάξη:
 
-### Jekyll Themes
+#### Δημοτικό (Έρχεται Σύντομα):
+- [Α' Δημοτικού](https://eliakr.github.io/grlearn/dimotiko/a)
+- [Β' Δημοτικού](https://eliakr.github.io/grlearn/dimotiko/b)
+- [Γ' Δημοτικού](https://eliakr.github.io/grlearn/dimotiko/c)
+- [Δ' Δημοτικού](https://eliakr.github.io/grlearn/dimotiko/d)
+- [Ε' Δημοτικού](https://eliakr.github.io/grlearn/dimotiko/e)
+- [ΣΤ' Δημοτικού](https://eliakr.github.io/grlearn/dimotiko/st)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EliaKr/learn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Γυμνάσιο:
+- [Α' Γυμνασίου](https://eliakr.github.io/grlearn/gymnasio/a)
+- [Β' Γυμνασίου](https://eliakr.github.io/grlearn/gymnasio/b)
+- [Γ' Γυμνασίου](https://eliakr.github.io/grlearn/gymnasio/c)
 
-### Support or Contact
+#### Λύκειο:
+- [Α' Λυκείου](https://eliakr.github.io/grlearn/lykeio/a)
+- [Β' Λυκείου](https://eliakr.github.io/grlearn/lykeio/b)
+- [Γ' Λυκείου](https://eliakr.github.io/grlearn/lykeio/c)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Προτείνετε Βίντεο
+
+Εαν θέλετε να προτείνετε βίντεο για προσθήκη στην ιστοσελίδα πατήστε [εδώ](mailto:learngr@protonmail.com) ή στείλτε email στο learngr@protonmail.com
