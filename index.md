@@ -3,14 +3,6 @@
 
 ### Μαθήματα ανα Τάξη:
 
-#### Δημοτικό (Έρχεται Σύντομα):
-- [Α' Δημοτικού](https://eliakr.github.io/grlearn/adim)
-- [Β' Δημοτικού](https://eliakr.github.io/grlearn/bdim)
-- [Γ' Δημοτικού](https://eliakr.github.io/grlearn/cdim)
-- [Δ' Δημοτικού](https://eliakr.github.io/grlearn/ddim)
-- [Ε' Δημοτικού](https://eliakr.github.io/grlearn/edim)
-- [ΣΤ' Δημοτικού](https://eliakr.github.io/grlearn/stdim)
-
 #### Γυμνάσιο:
 - [Α' Γυμνασίου](https://eliakr.github.io/grlearn/agymn)
 - [Β' Γυμνασίου](https://eliakr.github.io/grlearn/bgymn)
