@@ -14,8 +14,7 @@
 - [Α' Λυκείου](https://eliakr.github.io/grlearn/alyk)
 - [Β' Λυκείου](https://eliakr.github.io/grlearn/blyk)
 - [Γ' Λυκείου](https://eliakr.github.io/grlearn/clyk)
-
-### [Θέματα Πανελληνίων](https://eliakr.github.io/grlearn/themata)
+- [Θέματα Πανελληνίων](https://eliakr.github.io/grlearn/themata)
 
 ### Προτείνετε Βίντεο
 
