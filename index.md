@@ -6,16 +6,16 @@
 ### Μαθήματα ανα Τάξη:
 
 #### Γυμνάσιο:
-- [Α' Γυμνασίου](https://grlearn.github.io/agymn)
-- [Β' Γυμνασίου](https://grlearn.github.io/bgymn)
-- [Γ' Γυμνασίου](https://grlearn.github.io/cgymn)
+- [Α' Γυμνασίου](/agymn)
+- [Β' Γυμνασίου](/bgymn)
+- [Γ' Γυμνασίου](/cgymn)
 
 #### Λύκειο:
-- [Α' Λυκείου](https://grlearn.github.io/alyk)
-- [Β' Λυκείου](https://grlearn.github.io/blyk)
-- [Γ' Λυκείου](https://grlearn.github.io/clyk)
+- [Α' Λυκείου](/alyk)
+- [Β' Λυκείου](/blyk)
+- [Γ' Λυκείου](/clyk)
 
-### Ενδιαφέροντα Βίντεο
+### [Ενδιαφέροντα Βίντεο](/vid)
 
 ### Προτείνετε Βίντεο
 
