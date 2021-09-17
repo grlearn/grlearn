@@ -6,14 +6,14 @@
 ### Μαθήματα ανα Τάξη:
 
 #### Γυμνάσιο:
-- [Α' Γυμνασίου](https://eliakr.github.io/grlearn/agymn)
-- [Β' Γυμνασίου](https://eliakr.github.io/grlearn/bgymn)
-- [Γ' Γυμνασίου](https://eliakr.github.io/grlearn/cgymn)
+- [Α' Γυμνασίου](https://grlearn.github.io/agymn)
+- [Β' Γυμνασίου](https://grlearn.github.io/bgymn)
+- [Γ' Γυμνασίου](https://grlearn.github.io/cgymn)
 
 #### Λύκειο:
-- [Α' Λυκείου](https://eliakr.github.io/grlearn/alyk)
-- [Β' Λυκείου](https://eliakr.github.io/grlearn/blyk)
-- [Γ' Λυκείου](https://eliakr.github.io/grlearn/clyk)
+- [Α' Λυκείου](https://grlearn.github.io/alyk)
+- [Β' Λυκείου](https://grlearn.github.io/blyk)
+- [Γ' Λυκείου](https://grlearn.github.io/clyk)
 
 ### Προτείνετε Βίντεο
 
