@@ -17,6 +17,12 @@
 - [Playlist με μαθήματα](https://www.youtube.com/playlist?list=PLnxmJUYySXYxdd8d0NVPzgukNIi25IJaZ)
 
 #### Φυσική:
+- [Ηλεκτρικό Ρεύμα](https://www.youtube.com/playlist?list=PLvhQahQYhvbj3lghwY8Ls6pxU5Jd_38Vh)
+- [Ηλεκτρική Ενέργεια](https://www.youtube.com/playlist?list=PLvhQahQYhvbhh6n1a5u1EXZhvuykfa1tN)
+- [Ηλεκτρική Δύναμη και Φορτίο](https://www.youtube.com/playlist?list=PLvhQahQYhvbiNEbm1GnX7F9-yx1Jt60c-)
+- [Ταλαντώσεις](https://www.youtube.com/playlist?list=PLvhQahQYhvbjZw8GVF8g-Zug6etQxUzmT)
+- [Κύματα](https://www.youtube.com/playlist?list=PLvhQahQYhvbhWy3AtLUgdzHwm-X_IMOrY)
+- [Οπτική](https://www.youtube.com/playlist?list=PLvhQahQYhvbgYn1V3Tb9dW4DGtmDYg-sw)
 - [Playlist με όλα τα μαθήματα](https://www.youtube.com/playlist?list=PLqKAJsn38kClJysoQwXgRBQ16a_9ZFp6s)
 - [Playlist με αναλυτικές λύσεις ασκήσεων](https://www.youtube.com/playlist?list=PL3-Z6LrrIlQBxbjbwthMeMhUk9PXm3AIs)
 
