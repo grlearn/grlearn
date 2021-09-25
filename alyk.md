@@ -1,6 +1,5 @@
 ## Α' Λυκείου
 
-
 ### Μαθήματα:
 #### Άλγεβρα:
 - [Playlist με όλα τα μαθήματα](https://www.youtube.com/playlist?list=PLZA-Wu2BXhF5xwKctw7oMAVkf32VJuSB6)
@@ -14,6 +13,10 @@
 - [Playlist με όλα τα μαθήματα](https://youtube.com/playlist?list=PLZA-Wu2BXhF7qnGJC0nOvM0q3nqVFNRS_)
 
 #### Φυσική:
+- [Δυναμική Σε Μία Διάσταση](https://www.youtube.com/playlist?list=PLvhQahQYhvbiyMEc8uDXX2EeZNcA1eccj)
+- [Δυναμική Στο Επίπεδο](https://www.youtube.com/playlist?list=PLvhQahQYhvbhGawhDhluN5HsSqvoZpePt)
+- [Ευθύγραμμες Κινήσεις](https://www.youtube.com/playlist?list=PLvhQahQYhvbjfEsOKF0hn264OOXlYTD3t)
+- [Διατήρηση της Μηχανικής Ενέργειας](https://www.youtube.com/playlist?list=PLvhQahQYhvbj7CuGvxwd-HJ62GbjBMaG4)
 - [Playlist με όλα τα μαθήματα](https://www.youtube.com/playlist?list=PLqKAJsn38kCmpTsl94_0vYujrkBjoD9cr)
 
 #### Χημεία:
