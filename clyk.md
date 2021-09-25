@@ -17,7 +17,7 @@
 
 #### Ιστορία:
 - [Ανάλυση Πηγών](https://www.youtube.com/watch?v=Zw4q5y27gQA)
-- [Playlist με Μαθήματα](https://www.youtube.com/playlist?list=PLuUjM9rfiyGmvy1e9IS2BQMToJrBcTPra)
+- [Playlist με ανάγνωση μαθημάτων](https://www.youtube.com/playlist?list=PLuUjM9rfiyGmvy1e9IS2BQMToJrBcTPra)
 
 #### Λατινικά:
 - Δεν υπάρχουν διαθέσιμα μαθήματα.
