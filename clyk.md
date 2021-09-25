@@ -76,6 +76,7 @@
 - [Playlist με επαναληπτικές ασκήσεις](https://www.youtube.com/playlist?list=PLgs_QdA85R7CCQGBRMyvImfVoQzJYBzQO)
 
 ### Ειδικά Μαθήματα:
+##### \*(Στα ειδικά μαθήματα δεν υπάρχει πληθώρα διαθέσιμου υλικού, για αυτό τα παρακάτω βίντεο μπορεί να μην προσφέρουν πλήρη ή σύμφωνα με την εξέταση μαθήματα.)
 #### Γραμμικό Σχέδιο:
 - [Υλικά Γραμμικού Σχεδίου](https://www.youtube.com/watch?v=kKn1r-x50fk)
 - [Κλίμακες Σχεδίασης](https://www.youtube.com/watch?v=L0tmoAZd6m0)
@@ -95,7 +96,7 @@
 - [Πως Κοιτώ μια Προτομή. Θεωρία Σχεδίου.](https://www.youtube.com/watch?v=vTL9CbrngpU)
 - [Προτομή του Θεού Ήλιου. (Πως κοιτάω μια προτομή #2.)](https://www.youtube.com/watch?v=NdkdHCTHsGA)
 - [Νεκρή φύση](https://www.youtube.com/watch?v=3mNi-ue2eBI)
-- [Παλέτα αυτος ο άγνωστος](https://www.youtube.com/watch?v=velf2dT7xhE)
+- [Παλέτα, αυτος ο άγνωστος](https://www.youtube.com/watch?v=velf2dT7xhE)
 
 ### Προτείνετε Βίντεο ή Αφήστε Σχόλια
 
