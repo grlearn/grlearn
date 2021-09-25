@@ -3,6 +3,11 @@
 
 ### Μαθήματα Γενικής Παιδείας:
 #### Άλγεβρα:
+- [Συστήματα](https://www.youtube.com/playlist?list=PLgs_QdA85R7BIiS62De9mnthlYjqlcvJH)
+- [Τριγωνομετρία](https://www.youtube.com/playlist?list=PLgs_QdA85R7BpAuil6HIg5_9WOUbbTZJA)
+- [Πολυώνυμα](https://www.youtube.com/playlist?list=PLgs_QdA85R7BSUzNQWMEKH-LTk-3AGc16)
+- [Εκθετική Συνάρτηση](https://www.youtube.com/playlist?list=PLgs_QdA85R7BAOPtxA6UQSKNYPknlamp6)
+- [Λογαριθμική Συνάρτηση](https://www.youtube.com/playlist?list=PLgs_QdA85R7D_7I2-fe5gUzaBVw24-kPQ)
 - [Playlist με όλα τα μαθήματα](https://www.youtube.com/playlist?list=PLZA-Wu2BXhF5SPDZRrLbIei__aRlbSZ1w)
 - [Playlist με αναλυτικές λύσεις ασκήσεων](https://www.youtube.com/playlist?list=PL3-Z6LrrIlQBz5zwu4zrPtJ0FGO_5ztw1)
 - [Playlist με επαναληπτικές ασκήσεις](https://www.youtube.com/playlist?list=PLZA-Wu2BXhF5SPDZRrLbIei__aRlbSZ1w)
