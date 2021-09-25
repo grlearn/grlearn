@@ -5,6 +5,7 @@
 #### Άλγεβρα:
 - [Playlist με όλα τα μαθήματα](https://www.youtube.com/playlist?list=PLZA-Wu2BXhF5xwKctw7oMAVkf32VJuSB6)
 - [Playlist με αναλυτικές λύσεις ασκήσεων](https://www.youtube.com/playlist?list=PL3-Z6LrrIlQDByeREB5J34mutpmMMocpa)
+- [Playlist με επαναληπτικές ασκήσεις](https://www.youtube.com/playlist?list=PLgs_QdA85R7Dszm44V3ojabjGgOtarWCB)
 
 #### Βιολογία:
 - [Playlist με μαθήματα](https://www.youtube.com/playlist?list=PLtD7tbcHEZPAJpKGPOyezipXVzY_HGvSU)
