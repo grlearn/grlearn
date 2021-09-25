@@ -37,6 +37,9 @@
 - [Μαθήματα στο γνωστό κείμενο](https://www.youtube.com/playlist?list=PLthEVyg9a-CIENF0vxHu4RcGPAQ6uSDtb)
 - [Μαθήματα στο άγνωστο κείμενο](https://www.youtube.com/playlist?list=PLthEVyg9a-CJZSQ3MvJib6HDTLwGqWLo7)
 
+#### Λατινικά:
+- Δυστυχώς δεν υπάρχουν διαθέσιμα μαθήματα.
+
 ### Μαθήματα Ομάδας Προσανατολισμού Θετικών Σπουδών:
 #### Μαθηματικά:
 - [Playlist με όλα τα μαθήματα](https://www.youtube.com/playlist?list=PLZA-Wu2BXhF7HvOfVYfJwSPHxZUVcN26b)
