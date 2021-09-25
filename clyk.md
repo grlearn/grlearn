@@ -1,17 +1,26 @@
 ## Γ' Λυκείου
 
 ### Μαθήματα Γενικής Παιδείας:
-#### Έκθεση:
+##### \*(Τα μαθήματα Γενικής Παιδείας και του 1ου Επιστημονικού Πεδίου ενδέχεται να μην έχουν πλήρες υλικό.)
+#### Έκθεση-Λογοτεχνία:
+- [Δημιουργόντας Παραγράφους](https://www.youtube.com/playlist?list=PLlFFJyLUFGWtuROprAZxJ8mXb1uC0OFaJ)
+- [Επικοινωνιακό Πλαίσιο Έκθεσης](https://www.youtube.com/playlist?list=PLlFFJyLUFGWulHigFaztxvTmjbxEJQE7M)
+- [Γράφοντας Κείμενα](https://www.youtube.com/playlist?list=PLlFFJyLUFGWs0PRV7ZwTycKmSL6y7KEcR)
+- [Περίληψη](https://www.youtube.com/playlist?list=PLlFFJyLUFGWtEL9pv1eALEoJocXuqq8mk)
+- [Ο Τίτλος](https://www.youtube.com/watch?v=jjVOWUKfz0E)
+- [Πώς Απαντάμε στο Τρίτο Θέμα της Νεοελληνικής Λογοτεχνίας](https://www.youtube.com/watch?v=Gi_46ZRxLs8)
+- [Οι ερωτήσεις κατανόησης/ανάπτυξης (μικροκείμενα) στη Νεοελληνική Γλώσσα](https://www.youtube.com/watch?v=kxMM4Ulfsdo)
 
 ### Μαθήματα 1ου Επιστημονικού Πεδίου:
 #### Αρχαία:
-
+- Δεν υπάρχουν διαθέσιμα μαθήματα.
 
 #### Ιστορία:
-
+- [Ανάλυση Πηγών](https://www.youtube.com/watch?v=Zw4q5y27gQA)
+- [Playlist με Μαθήματα](https://www.youtube.com/playlist?list=PLuUjM9rfiyGmvy1e9IS2BQMToJrBcTPra)
 
 #### Λατινικά:
-
+- Δεν υπάρχουν διαθέσιμα μαθήματα.
 
 ### Μαθήματα 2ου Επιστημονικού Πεδίου:
 #### Μαθηματικά:
