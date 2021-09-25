@@ -77,12 +77,13 @@
 
 ### Ειδικά Μαθήματα:
 #### Γραμμικό Σχέδιο:
+- [Υλικά Γραμμικού Σχεδίου](https://www.youtube.com/watch?v=kKn1r-x50fk)
+- [Κλίμακες Σχεδίασης](https://www.youtube.com/watch?v=L0tmoAZd6m0)
 - [Χρήση της Μπόμπας](https://www.youtube.com/watch?v=n07Rmz23-3o)
 - [Πλακοστρώσεις](https://www.youtube.com/watch?v=KcHawlgZ4FU)
 - [Λιθοδομές](https://www.youtube.com/watch?v=rq2qs70gA8g)
 - [Χρήση του Ταυ](https://www.youtube.com/watch?v=atlqkxjF3qg)
 - [Διόρθωση Γραμμικού Σχεδίου](https://www.youtube.com/watch?v=juiOG-_AI-A)
-- [Κλίμακες Σχεδίασης](https://www.youtube.com/watch?v=L0tmoAZd6m0)
 
 #### Ελεύθερο Σχέδιο:
 - [Εισαγωγή στο Ελεύθερο Σχέδιο](https://www.youtube.com/watch?v=2U2hiFUt970)
