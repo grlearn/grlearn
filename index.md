@@ -20,3 +20,7 @@
 Εαν θέλετε να προτείνετε βίντεο για προσθήκη στην ιστοσελίδα πατήστε εδώ ή στείλτε email στο learngr@protonmail.com.Στο grlearn προσπαθουμε να κάνουμε το καλύτερο δυνατό για την κατηγοριοποίηση και την προσθήκη του υλικού. Ωστόσο δεν μπορούμε να εγγυηθούμε την εγγυρότητα των πληροφοριών, καθώς το εκπαιδευτικό υλικό δεν παράγεται από εμας. Εαν παρατηρήσετε κάποιο πρόβλημα παρακαλούμε να μας ενημερώσετε στο learngr@protonmail.com για να διορθωθεί άμεσα. Τα σχόλια σας μας επιτρέπουν να γινόμαστε συνεχώς καλύτεροι και σας ευχαριστούμε για αυτό.
 
 <script>if(!sessionStorage.getItem("_swa")&&document.referrer.indexOf(location.protocol+"//"+location.host)!== 0){fetch("https://counter.dev/track?"+new URLSearchParams({referrer:document.referrer,screen:screen.width+"x"+screen.height,user:"ikrigos",utcoffset:"0"}))};sessionStorage.setItem("_swa","1");</script>
+
+<!-- Start of SimpleHitCounter Code -->
+<div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=714499406&f=16777215&b=0" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>
+<!-- End of SimpleHitCounter Code -->
